@@ -1,4 +1,4 @@
-# write your method here
+crazy_strings
 
 def crazy_strings(a,b)
 

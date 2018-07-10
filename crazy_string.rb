@@ -1,5 +1,5 @@
 crazy_strings
 
-def crazy_strings("What","Up")
-puts crazy_strings("What is up").upcase
+def crazy_strings(first_word,second_word)
+puts 
 end

@@ -9,6 +9,6 @@ crazy_strings(first_word,second_word)
 first_word = "hello"
 second_word = "friends"
 def crazy_strings(first_word,second_word)
-puts "#{first_word.swapcase.gsub("z","s"},#{second_word.swapcase.gsub}"
+puts "#{first_word.swapcase.gsub("z","s")},#{second_word.swapcase.gsub("z","s")}"
 end
 crazy_strings(first_word,second_word)
